@@ -22,7 +22,7 @@ setup(
     download_url='https://github.com/Def4l71diot/pyinputedittext/archive/1.0.tar.gz',
     keywords=['linux', 'windows', 'macos', 'unix', 'console', 'input', 'development'],
     classifiers=[
-        'Development Status :: Stable',
+        'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
         'Topic :: Software Development',
         'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
