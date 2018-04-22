@@ -14,3 +14,6 @@ edited_text = input_edit_text('Please edit this text: ', text_to_edit)
 
 print(edited_text)
 ```
+
+# Demo
+![demo](demo.gif)
